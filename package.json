@@ -33,6 +33,7 @@
     "passport-discord": "^0.1.2",
     "simple-youtube-api": "^3.0.1",
     "snekfetch": "^3.5.3",
+    "node.js": "0.0.0",
     "twit": "^2.2.9",
     "unfluff": "^1.1.0"
   }
